@@ -1,0 +1,6 @@
+*.tlog
+*.manifest
+*.res
+*.lastbuildstate
+Server/FPS_Server/FPS_Server/Debug/FPS_Server_manifest.rc
+*.idb
